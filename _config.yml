@@ -1,0 +1,11 @@
+# Site settings
+title: hyperfriendly+json
+email: mail@hyperfriendly.net
+description: >
+  hyperfriendly+json is a simple but extensible hypermedia mediatype.
+baseurl: ""
+url: "http://hyperfriendly.net"
+github_username:  hyperfriendly
+
+# Build settings
+markdown: kramdown

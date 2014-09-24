@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hyperfriendly+json</title>
+    <description>hyperfriendly+json is a simple but extensible hypermedia mediatype.
+</description>
+    <link>http://hyperfriendly.net/</link>
+    <atom:link href="http://hyperfriendly.net/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 24 Sep 2014 12:27:20 +0200</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2014 12:27:20 +0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+  </channel>
+</rss>
